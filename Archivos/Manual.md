@@ -71,10 +71,11 @@ Me gusta el editor [Editor Markdown](https://editormarkdown.com "Mejor editor Ma
 También puedes agregar formato al texto del enlace, pudiendo ponerlo en negrita, cursiva o negrita y cursiva. Para ello basta con que uses asteriscos * o guiones bajos _, según corresponda, alrededor del enlace:
 Ejemplo:
 **[Negrita](https://neoguias.com)** etc
+#### Imagenes
 Para agregar imágenes con Markdown debes agregar un signo de exclamación ! seguido del texto alternativo o alt de la imagen entre corchetes y de la URL de la imagen entre paréntesis:
-![Imagen de una nube](C:\Users\jfvy1\Desktop\CMD)
+![Imagen de una Pizza](https://github.com/JossleyFVY/Practica-0/blob/main/Archivos/descarga.jpg)
 Para añadir un título solo haría falta ponerlo entre comillas.
-![Imagen de una nube](C:\Users\jfvy1\Desktop\CMD "titulo")
+![Imagen de una Pizza](https://github.com/JossleyFVY/Practica-0/blob/main/Archivos/descarga.jpg "titulo")
 
 #### Citas
 Para agregar citas en Markdown debes agregar el signo mayor > justo delante de una línea o de un párrafo:

@@ -33,12 +33,15 @@ Como por ejemplo esta.
 #### Negrita
 Para agregar texto resaltado en negrita tendrás que usar dos asteriscos ** o dos guiones bajos __ al principio y al final de lo oración que quieres resaltar.
 En caso de que quieras resaltar un texto que está en medio de una palabra, tedrás que agregar dos asteriscos ** o dos guiones bajos __, sin espacios, antes y después de las letras deseadas:
+
 Ejemplos:
 Texto en **negrita**  en html sería con la etiqueta <b>negrita</b>
-texto en neg**gri**ta en html sería con ne<b>gri</b>
+texto en neg**gri**ta en html sería con ne<b>gri</b>ta
+
 #### Cursiva
 Para agregar texto en cursiva debes usar un solo asterisco * o un solo guión bajo _ tanto al inicio como al final de lo oración que quieres marcar como cursiva.
 Si quieres poner en cursiva ciertas letras que estén en la mitad de una palabra, deberás agregar un asterisco * o un guión bajo _, sin espacios, al comienzo y al final de las letras deseadas:
+
 Ejemplos:
 Sería igual que en negrita...
 texto en *cursiva*  en html sería con la etiqueta <em>
@@ -52,6 +55,7 @@ Ejemplos:
 3. Tercer elemento
 y así sucesivamente... en el caso de listas ordenadas.
 En el caso de listas no ordenadas solo sería con *
+
 Ejemplos:
 * Primer elemento.
 * Segundo elemento.
@@ -65,10 +69,12 @@ Ejemplo:
 <https://www.google.com/webhp?authuser=1> así nos saldría el enlace entero
 #### Título de enlaces
 También puedes agregar un título al enlace, que aparecerá cuando pases el cursor por encima del mismo. Para agregar un título a un enlace debes añadirlo entre comillas dobles, justo después del enlace:
+
 Ejemplo:
 Me gusta el editor [Editor Markdown](https://editormarkdown.com "Mejor editor Markdown")
 #### Formato del enlace
 También puedes agregar formato al texto del enlace, pudiendo ponerlo en negrita, cursiva o negrita y cursiva. Para ello basta con que uses asteriscos * o guiones bajos _, según corresponda, alrededor del enlace:
+
 Ejemplo:
 **[Negrita](https://neoguias.com)** etc
 #### Imagenes
@@ -79,9 +85,11 @@ Para añadir un título solo haría falta ponerlo entre comillas.
 
 #### Citas
 Para agregar citas en Markdown debes agregar el signo mayor > justo delante de una línea o de un párrafo:
+
 Ejemplo:
 >Te recordaremos Antonio
 para que sea más largo o para que vaya una más a la derecha añadiremos >
+
 Ejemplo:
 >Te recordaremos Antonio
 >

@@ -63,6 +63,57 @@ Ejemplos:
 * Primer elemento.
 * Segundo elemento.
 * Tercer elemento.
+
+#### Texto Tachado
+Para agregar un texto tachado en Markdown tendrás que usar dos guiones ondulados ~~ tanto antes como después del texto que quires tachar. Esto agregará una línea horizontal a través del texto tal y como ves en este ejemplo. El texto tachado suele usarse para indicar que ciertas palabras o elementos son un error:
+Ejemplo:
+
+~~ESPAÑA~~ 
+
+En html sería con la etiqueta strike
+
+#### Bloques de código
+Los bloques de código que se inician y se cierran con tres comillas invertidas son aceptados por la mayor parte de los procesadores de texto y herramientas Markdown. Su funcionalidad se limita a crear un bloque de código sin formato ni resaltado de sintaxis.
+Ejemplo
+
+```
+const value = 3;
+let result = value * 4;
+```
+#### Resaltado de sintaxis
+Muchos procesadores Markdown soportan los bloques de código con resaltado de sintaxis para una gran cantidad de lenguajes de programación. Esto coloreará y agregará formato al código según el lenguaje de programación con el que se corresponda.
+
+Para ello tendremos que indicar el lenguaje de programación tras las tres comillas de apertura del bloque de código.
+
+A continuación agregamos un bloque de código JavaScript:
+```javascript
+const value = 3;
+let result = value * 4;
+```
+#### Listas de definiciones
+Para crera una lista de definiciones tendrás que agregar un término en la primera línea y, en la línea siguiente, dos puntos : seguidos de un espacio y la definición asociada al término.
+
+También puedes agregar más de una definición para un mismo término. Para ello basta con que agregues definiciones adicionales en sucesivas líneas:
+
+Ejemplo:
+Término 1
+: Esta es la definición del término 1
+
+Término 2
+: Esta es la primera definición del término 2
+: Esta es la segunda definición del término 2
+
+#### Listas de tareas
+Las listas de tareas se componen de checkboxes que se mostrarán al lado del contenido.
+
+Espacio en blanco: Agrega un espacio en blanco para indicar que la tarea no ha sido completada.
+Equis x: Agrega una x para indicar que la tarea ha sido completada.
+A continuación de los corchetes tendrás que dejar un espacio en blanco, agregando seguidamente la descripción de la tarea:
+
+- [x] Primera tarea
+- [ ] Segunda tarea
+- [ ] Tercera tarea
+
 ### Enlaces
 Para crear un enlace en Markdown debes situar entre corchetes el texto que quieres enlazar, también conocido como anchor. Seguidamente, debes usar paréntesis para definir la URL a la que debe enlazar en texto del enlace:
 
@@ -82,8 +133,11 @@ Ejemplo:
 **[Negrita](https://neoguias.com)** etc
 #### Imagenes
 Para agregar imágenes con Markdown debes agregar un signo de exclamación ! seguido del texto alternativo o alt de la imagen entre corchetes y de la URL de la imagen entre paréntesis:
+
 ![Imagen de una Pizza](https://github.com/JossleyFVY/Practica-0/blob/main/Archivos/descarga.jpg)
+
 Para añadir un título solo haría falta ponerlo entre comillas.
+
 ![Imagen de una Pizza](https://github.com/JossleyFVY/Practica-0/blob/main/Archivos/descarga.jpg "titulo")
 
 #### Citas

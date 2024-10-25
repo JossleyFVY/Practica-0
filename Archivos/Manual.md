@@ -35,7 +35,9 @@ Para agregar texto resaltado en negrita tendrás que usar dos asteriscos ** o do
 En caso de que quieras resaltar un texto que está en medio de una palabra, tedrás que agregar dos asteriscos ** o dos guiones bajos __, sin espacios, antes y después de las letras deseadas:
 
 Ejemplos:
+
 Texto en **negrita**  en html sería con la etiqueta <b>negrita</b>
+
 texto en neg**gri**ta en html sería con ne<b>gri</b>ta
 
 #### Cursiva
@@ -50,6 +52,7 @@ texto en *cur*siva igual
 #### Listas
 Para agregar listas ordenadas en Markdown debes agregar un número seguido de un punto, un espacio y el elemento de la lista. La lista no debe estar ordenada numéricamente, pero debe comenzar por el número 1:
 Ejemplos:
+
 1. Primer elemento
 2. Segundo elemento
 3. Tercer elemento

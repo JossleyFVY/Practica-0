@@ -125,7 +125,7 @@ Para agregar imágenes con Markdown debes agregar un signo de exclamación ! seg
 
 Para añadir un título solo haría falta ponerlo entre comillas.
 
-![Imagen de un gato](https://www.google.com/imgres?q=imagen%20de%20gojo%20gato&imgurl=https%3A%2F%2Fih1.redbubble.net%2Fimage.2613406298.5590%2Fbg%2Cf8f8f8-flat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.jpg&imgrefurl=https%3A%2F%2Fwww.redbubble.com%2Fes%2Fi%2Fpegatina%2Fetiqueta-engomada-del-gato-gojo-de-Oouyox%2F85245590.EJUG5&docid=J83tfhvnpg52WM&tbnid=H3f8KlkhXenmlM&vet=12ahUKEwjZ4oe-1amJAxVkSKQEHanTMpgQM3oECBgQAA..i&w=750&h=1000&hcb=2&ved=2ahUKEwjZ4oe-1amJAxVkSKQEHanTMpgQM3oECBgQAA "titulo")
+![Imagen de un gato](https://images.app.goo.gl/va3KJZCpiDv5EGFL6 "titulo")
 
 #### Citas
 Para agregar citas en Markdown debes agregar el signo mayor > justo delante de una línea o de un párrafo:

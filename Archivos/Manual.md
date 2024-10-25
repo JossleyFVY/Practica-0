@@ -90,20 +90,6 @@ A continuación agregamos un bloque de código JavaScript:
 const value = 3;
 let result = value * 4;
 ```
-#### Listas de definiciones
-Para crera una lista de definiciones tendrás que agregar un término en la primera línea y, en la línea siguiente, dos puntos : seguidos de un espacio y la definición asociada al término.
-
-También puedes agregar más de una definición para un mismo término. Para ello basta con que agregues definiciones adicionales en sucesivas líneas:
-
-Ejemplo:
-
-Término 1
-: Esta es la definición del término 1
-
-Término 2
-: Esta es la primera definición del término 2
-: Esta es la segunda definición del término 2
-
 #### Listas de tareas
 Las listas de tareas se componen de checkboxes que se mostrarán al lado del contenido.
 

@@ -132,6 +132,7 @@ Para agregar citas en Markdown debes agregar el signo mayor > justo delante de u
 
 Ejemplo:
 >Te recordaremos Antonio
+
 para que sea más largo o para que vaya una más a la derecha añadiremos >
 
 Ejemplo:

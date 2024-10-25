@@ -96,11 +96,15 @@ Para crera una lista de definiciones tendrás que agregar un término en la prim
 También puedes agregar más de una definición para un mismo término. Para ello basta con que agregues definiciones adicionales en sucesivas líneas:
 
 Ejemplo:
+
 Término 1
+
 : Esta es la definición del término 1
 
 Término 2
+
 : Esta es la primera definición del término 2
+
 : Esta es la segunda definición del término 2
 
 #### Listas de tareas
